@@ -107,3 +107,10 @@ code {
     margin: 10px;
     border-radius: 5px;
 }
+
+@media (max-width:200px){
+    code {
+        padding: 10px;
+    }
+}
+
